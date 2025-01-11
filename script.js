@@ -31,6 +31,8 @@ boxes.forEach((btn)=>{
     
 })
 
+console.log{"Hello On Every Button"}
+
 
 //  boxes.forEach((box)=> {
 //     box.addEventlistner("Click",()=>{
